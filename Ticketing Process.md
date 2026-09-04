@@ -21,7 +21,7 @@ Each ticket follows a standard **ServiceNow-style format**:
 > `Reported Symptom` → `Diagnostic Steps` → `Root Cause` → `Resolution` → `User Communication`
 
 > [!NOTE]
-> These are **representative scenarios** built to demonstrate structured process management and troubleshooting methodology — they are not records of actual incidents.
+> These are representative scenarios built to demonstrate structured troubleshooting methodology and confirm real world experiences. They are not records of actual incidents to keep the integrity and confidentiality of our clients and employees.
 
 ---
 
